@@ -22,16 +22,4 @@ else
   return "HUH?! SPEAK UP, SONNY!"
   end
 end
-<<<<<<< HEAD
-=======
-# def speak_to_grandma(phrase)
-#   if phrase == 'I LOVE YOU GRANDMA!'
-#     return 'I LOVE YOU TOO PUMPKIN!'
-#   end
-#   if phrase != phrase.upcase()
-#     return "HUH?! SPEAK UP, SONNY!"
-#   else
-#     return "NO, NOT SINCE 1938!"
-#   end
-# end
->>>>>>> ae57a65b8d61aad1c8ee06eb51c9f1ce16f708c6
+
